@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: parlayZ
+
+  profiles:
+    active: "dynamic"
+
+server:
+  port: 7050
